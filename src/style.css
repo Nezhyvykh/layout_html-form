@@ -1,1 +1,15 @@
 /* styles go here */
+.form-field {
+  display: block;
+  margin: 10px 0;
+}
+
+.form-group {
+  margin: 20px 0;
+}
+
+.form-button:enabled {
+  opacity: 0.8;
+  border-radius: 5px;
+  background-color: #fff;
+}
