@@ -1,15 +1,11 @@
 /* styles go here */
 .form-field {
   display: block;
-  margin: 10px 0;
+  margin-bottom: 10px;
 }
 
 .form-group {
-  margin: 20px 0;
-}
-
-.form-button:enabled {
-  opacity: 0.8;
-  border-radius: 5px;
-  background-color: #fff;
+  margin-bottom: 20px;
+  padding: auto;
+  padding-bottom: 0;
 }
